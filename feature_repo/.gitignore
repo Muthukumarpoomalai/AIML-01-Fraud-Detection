@@ -1,0 +1,27 @@
+@'
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ipynb_checkpoints/
+
+data/raw/
+data/processed/*.csv
+data/processed/*.parquet
+
+mlruns/
+
+*.db
+*.sqlite
+
+.env
+.env.*
+
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+*.zip
+'@ | Set-Content -Encoding UTF8 .gitignore

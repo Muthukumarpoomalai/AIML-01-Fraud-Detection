@@ -1,0 +1,12 @@
+.venv
+__pycache__
+.git
+data/
+notebooks/
+mlruns/
+reports/
+dashboard/
+tests/
+feature_repo/
+*.csv
+*.parquet

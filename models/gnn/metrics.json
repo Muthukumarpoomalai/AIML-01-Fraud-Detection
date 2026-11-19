@@ -1,0 +1,8 @@
+{
+    "PR_AUC": 0.04593214118267697,
+    "ROC_AUC": 0.6515463714480256,
+    "training_transactions": 80000,
+    "testing_transactions": 20000,
+    "graph_edges": 391147,
+    "epochs": 15
+}

@@ -1,0 +1,7 @@
+{
+    "XGBoost_weight": 0.7,
+    "GNN_weight": 0.3,
+    "PR_AUC": 0.12117512728560163,
+    "ROC_AUC": 0.7762627809175813,
+    "transactions_evaluated": 20000
+}
